@@ -1,0 +1,520 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+.doctorappointmentpage-child {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 1234px;
+  height: 1975px;
+}
+.description-child1,
+.description-inner,
+.description2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1234px;
+  height: 648px;
+}
+.description-child1,
+.description-inner {
+  top: 99px;
+  left: 43px;
+  width: 653px;
+  height: 171px;
+}
+.description-child1 {
+  top: 324px;
+  left: 56px;
+  width: 603px;
+  height: 86px;
+}
+.smalltext1 {
+  position: absolute;
+  top: 326px;
+  left: 76px;
+  white-space: pre-wrap;
+}
+.assemble-long-terms-relationsh {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.largetext1 {
+  position: absolute;
+  top: 99px;
+  left: 56px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.description-image-icon {
+  position: absolute;
+  top: 42px;
+  left: 709px;
+  width: 505px;
+  height: 565px;
+  object-fit: cover;
+}
+.description1 {
+  position: absolute;
+  top: 1325px;
+  left: 0;
+  width: 1234px;
+  height: 648px;
+  font-family: var(--font-roboto);
+}
+.group-child1,
+.sevice-section-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1234px;
+  height: 584px;
+}
+.group-child1 {
+  width: 378px;
+  height: 321px;
+}
+.largetext2,
+.smalltext2 {
+  position: absolute;
+  top: 157px;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.smalltext2 {
+  top: 220px;
+  left: 20px;
+  font-size: var(--font-size-3xl);
+}
+.bg-icon,
+.searchicon {
+  position: absolute;
+  top: 0;
+  left: 119px;
+  width: 143px;
+  height: 148px;
+}
+.searchicon {
+  top: 17px;
+  left: 124px;
+  width: 124px;
+  height: 114px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 211px;
+  left: 56px;
+  width: 378px;
+  height: 321px;
+}
+.about-us2:hover,
+.contact-us1:hover,
+.features2:hover,
+.rectangle-container:hover,
+.rectangle-group:hover,
+.rectangle-parent:hover,
+.services2:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 343px;
+  height: 358px;
+}
+.largetext3,
+.smalltext3 {
+  position: absolute;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.smalltext3 {
+  top: 220px;
+  left: 15px;
+  font-size: var(--font-size-3xl);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 321px;
+  height: 122px;
+}
+.largetext3 {
+  top: 157px;
+  left: 33px;
+  font-size: var(--font-size-5xl);
+}
+.bg-icon1,
+.calendericon {
+  position: absolute;
+  top: 9px;
+  left: 75px;
+  width: 143px;
+  height: 148px;
+}
+.calendericon {
+  top: 38px;
+  left: 103px;
+  width: 88px;
+  height: 87px;
+  object-fit: cover;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 211px;
+  left: 456px;
+  width: 343px;
+  height: 358px;
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 369px;
+  height: 321px;
+}
+.largetext4,
+.smalltext4 {
+  position: absolute;
+  top: 157px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.smalltext4 {
+  top: 220px;
+  font-size: var(--font-size-3xl);
+}
+.bg-icon2,
+.searchicon1 {
+  position: absolute;
+  top: 9px;
+  left: 73px;
+  width: 143px;
+  height: 148px;
+}
+.searchicon1 {
+  top: 28px;
+  left: 69px;
+  width: 124px;
+  height: 114px;
+  object-fit: cover;
+}
+.rectangle-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 211px;
+  left: 817px;
+  width: 369px;
+  height: 321px;
+}
+.caption {
+  position: absolute;
+  top: 80px;
+  left: 242px;
+  font-weight: 500;
+}
+.banner-section1,
+.sevice-section {
+  position: absolute;
+  left: 0;
+  width: 1234px;
+}
+.sevice-section {
+  top: 733px;
+  height: 584px;
+  font-size: var(--font-size-7xl);
+}
+.banner-section1 {
+  top: 0;
+  background-color: var(--color-aliceblue-100);
+  height: 636px;
+}
+.doctorimage-icon {
+  position: absolute;
+  top: 0;
+  left: 715px;
+  width: 447px;
+  height: 615px;
+  object-fit: cover;
+}
+.searchbar2,
+.searchlogo1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 711px;
+  height: 80px;
+}
+.searchlogo1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-deepskyblue);
+  border-radius: 90px;
+  width: 86px;
+  height: 48px;
+}
+.search-fill0-wght400-grad0-ops-icon3 {
+  position: absolute;
+  top: 11px;
+  left: 13px;
+  width: 48px;
+  height: 35px;
+  object-fit: cover;
+}
+.searchlogo-parent {
+  position: absolute;
+  top: 20px;
+  left: 529px;
+  width: 86px;
+  height: 48px;
+}
+.rectangle-textarea {
+  border: 0;
+  background-color: var(--color-whitesmoke-100);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 183px;
+  height: 40px;
+}
+.search-area {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-2xl);
+  background-color: transparent;
+  position: absolute;
+  top: 16px;
+  left: 0;
+  color: var(--color-black);
+  text-align: left;
+}
+.group-child4,
+.group-div {
+  position: absolute;
+  top: 20px;
+  left: 288px;
+  width: 183px;
+  height: 40px;
+}
+.group-child4 {
+  border: 0;
+  background-color: var(--color-whitesmoke-100);
+  top: 0;
+  left: 0;
+  width: 172px;
+}
+.rectangle-parent1,
+.searchbar1 {
+  position: absolute;
+  top: 20px;
+  left: 36px;
+  width: 172px;
+  height: 40px;
+}
+.searchbar1 {
+  top: 455px;
+  left: 88px;
+  width: 711px;
+  height: 80px;
+}
+.largetextbg,
+.smalltextbg,
+.textarea {
+  position: absolute;
+  top: 65px;
+  left: 76px;
+  background-color: var(--color-aliceblue-100);
+  width: 584px;
+  height: 312px;
+}
+.largetextbg,
+.smalltextbg {
+  top: 206px;
+  left: 7px;
+  width: 534px;
+  height: 89px;
+}
+.largetextbg {
+  top: 0;
+  left: 0;
+  width: 584px;
+  height: 174px;
+}
+.searchdoctortextsearxhdoctorte {
+  margin: 0;
+}
+.largetext5,
+.smalltext5 {
+  position: absolute;
+  top: 223px;
+  left: 12px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.largetext5 {
+  top: 0;
+  font-size: 48px;
+}
+.textarea1 {
+  position: absolute;
+  top: 65px;
+  left: 76px;
+  width: 603px;
+  height: 295px;
+}
+.banners-section,
+.signup-child {
+  position: absolute;
+  top: 97px;
+  left: 0;
+  width: 1234px;
+  height: 636px;
+}
+.signup-child {
+  text-decoration: none;
+  top: 0;
+  border-radius: 80px;
+  background-color: var(--color-deepskyblue);
+  width: 171px;
+  height: 48px;
+}
+.sign-up3,
+.signup1 {
+  position: absolute;
+  top: 12px;
+  left: 41px;
+}
+.signup1 {
+  top: 0;
+  left: 965px;
+  width: 171px;
+  height: 48px;
+}
+.about-us2,
+.contact-us1,
+.services2 {
+  text-decoration: none;
+  position: absolute;
+  top: 17px;
+  left: 839px;
+  font-weight: 700;
+  color: inherit;
+}
+.about-us2,
+.services2 {
+  left: 715px;
+}
+.services2 {
+  left: 593px;
+}
+.features2 {
+  top: 17px;
+  left: 475px;
+}
+.features2,
+.home2,
+.medicare1 {
+  text-decoration: none;
+  position: absolute;
+  font-weight: 700;
+  color: inherit;
+}
+.home2 {
+  top: 17px;
+  left: 376px;
+  opacity: 1;
+}
+.home2.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.home2:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.medicare1 {
+  top: 2px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+}
+.location2,
+.options1 {
+  position: absolute;
+  top: 20px;
+  left: 64px;
+  width: 1136px;
+  height: 50px;
+}
+.location2 {
+  text-decoration: none;
+  top: 0;
+  left: 0;
+  width: 56px;
+  height: 74px;
+  background-image: url(./public/location@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.navbar2 {
+  position: absolute;
+  top: -2px;
+  left: -20px;
+  background-color: var(--color-gainsboro);
+  width: 1234px;
+  height: 96px;
+  display: none;
+}
+.nav-bar {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 1200px;
+  height: 74px;
+}
+.doctorappointmentpage {
+  text-decoration: none;
+  position: relative;
+  width: 100%;
+  height: 1981px;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
